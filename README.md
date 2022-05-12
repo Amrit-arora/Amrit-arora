@@ -27,7 +27,7 @@
 
  ## Education
  - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ 📖**Bachelor's of technology-< Computer Science and Technology >**
  
  - 📍 **Montfort School, Roorkee**------------------**< 2019-2021 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
