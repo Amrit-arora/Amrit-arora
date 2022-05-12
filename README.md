@@ -6,9 +6,9 @@
 
 ### Hi there, I'm [Amrit Arora](https://www.linkedin.com/in/amrit-arora-86006b228/<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+Hello everyone, my name is Amrit Arora and currently I am pursuing my Bachelor's of Technology in College of engineering, Roorkee.I am very curious and excited about technologies and have the ability to explore many more things at the same time.Right now I am improving my skills in web development and trying to make it better and better. I am learning frontend things inside web development and then gradually I will try to learn backend. Due to this, my skills will go further towards full development, which will instill some confidence in me, and then I will get a chance to learn new things.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankushjnvku&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amrit-arora&label=Profile%20views&color=32CD32&style=flat%22%20alt=%22akankushjnvku" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
